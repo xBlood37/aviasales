@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/aviasales/static/css/main.009bb126.chunk.css",
+    "main.js": "/aviasales/static/js/main.8f5c9098.chunk.js",
+    "main.js.map": "/aviasales/static/js/main.8f5c9098.chunk.js.map",
+    "runtime-main.js": "/aviasales/static/js/runtime-main.e424b770.js",
+    "runtime-main.js.map": "/aviasales/static/js/runtime-main.e424b770.js.map",
+    "static/js/2.11cacc0e.chunk.js": "/aviasales/static/js/2.11cacc0e.chunk.js",
+    "static/js/2.11cacc0e.chunk.js.map": "/aviasales/static/js/2.11cacc0e.chunk.js.map",
+    "index.html": "/aviasales/index.html",
+    "precache-manifest.e801f57ffc82b897f3832d16c2765932.js": "/aviasales/precache-manifest.e801f57ffc82b897f3832d16c2765932.js",
+    "service-worker.js": "/aviasales/service-worker.js",
+    "static/css/main.009bb126.chunk.css.map": "/aviasales/static/css/main.009bb126.chunk.css.map",
+    "static/js/2.11cacc0e.chunk.js.LICENSE.txt": "/aviasales/static/js/2.11cacc0e.chunk.js.LICENSE.txt",
+    "static/js/main.8f5c9098.chunk.js.LICENSE.txt": "/aviasales/static/js/main.8f5c9098.chunk.js.LICENSE.txt",
+    "static/media/uwu.gif": "/aviasales/static/media/uwu.2599fe82.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e424b770.js",
+    "static/js/2.11cacc0e.chunk.js",
+    "static/css/main.009bb126.chunk.css",
+    "static/js/main.8f5c9098.chunk.js"
+  ]
+}
